@@ -1,2 +1,4 @@
 👋 Hi, I’m @MihneaShaff<br>
- Currently managing projects for Original.gg and trying to learn new stuff
+ Currently learning CSS & HTML
+
+[My Website](https://shaff.dev)
